@@ -14,10 +14,23 @@
 
 ### O que Foi Usado ?
 <ul>
- <li>O Velhinho Visual Basic for Applications!<img src="https://user-images.githubusercontent.com/80895578/130535675-3b04c6ed-ce74-4830-99ca-dfad9a0f1396.png"  height="100" width="100" >
+ <li>O Velhinho Visual Basic for Applications!<img src="https://user-images.githubusercontent.com/80895578/130535675-3b04c6ed-ce74-4830-99ca-dfad9a0f1396.png"  width="100" >
  </li>
   <li>Em Seu Ventre! O Bendito Excel !
-<img src="https://user-images.githubusercontent.com/80895578/130536156-bf82ee85-3da1-4062-bd82-2c6def05515a.png"  height="100" width="100" >
+<img src="https://user-images.githubusercontent.com/80895578/130536156-bf82ee85-3da1-4062-bd82-2c6def05515a.png"  width="100" >
  </li>
  </ul>
+
+
+ ### Autor
+---
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80895578?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Joao Guilherme</b></sub></a> <a href="https://github.com/JoaoG23/">🚀</a>
+
+
+Feito com 🤭 por Joao Guilherme 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaoo/)](https://www.linkedin.com/in/joaog123/) 
+[![Badge](https://img.shields.io/badge/-joaoguilherme94@live.com-c80?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:joaoguilherme94@live.com)](mailto:joaoguilherme94@live.com)
 
